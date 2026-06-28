@@ -30,3 +30,5 @@ next-env.d.ts
 /.vscode/
 /.vs/
 workspace.xml
+/dist/
+.vinext/
